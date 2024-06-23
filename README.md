@@ -85,7 +85,7 @@ next.config.js: Next.js の設定ファイル
 .gitignore: Git で無視するファイルを指定するファイル
 
 ### 使用技術
-Next.js
-React
-Tailwind CSS
-Docker
+- Next.js
+- React
+- Tailwind CSS
+- Docker
