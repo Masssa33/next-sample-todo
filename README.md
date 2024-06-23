@@ -1,4 +1,4 @@
-※このReadmeはChatGPTを利用して作成されました。ChatGPT の回答は必ずしも正しいとは限りません。<br>重要な情報は確認するようにしてください。
+※このReadmeはChatGPTを利用して作成されました。ChatGPT の回答は必ずしも正しいとは限りません。重要な情報は確認するようにしてください。
 
 # Next Sample Todo
 
