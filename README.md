@@ -6,7 +6,8 @@
 
 ## プロジェクトの概要
 
-Next Sample Todo は、React と Next.js を使って構築された ToDo リストアプリケーションです。Tailwind CSS を使用してスタイリングされています。また、Docker を使用して開発環境を構築することができます。
+Next Sample Todo は、React と Next.js を使って構築された ToDo リストアプリケーションです。Tailwind CSS を使用してスタイリングされています。また、Docker を使用して開発環境を構築することができます。  
+ソースコード参考：[Shin-sibainu/next.js13-todoapp-yt](https://github.com/Shin-sibainu/next.js13-todoapp-yt)
 
 ## デモ
 準備中
