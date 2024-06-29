@@ -49,7 +49,7 @@ npm run dev
 yarn dev
 ```
 
-### Docker を使用した起動
+### (Docker を使用した起動)
 Docker を使用してアプリケーションを起動する場合：
 ```bash
 docker-compose up --build
